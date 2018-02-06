@@ -1,0 +1,9 @@
+[Log]
+Description = "It's a log."
+Picture = "  _\n / /\n/ /"
+
+[Worn Rod]
+Description = "An old fishing rod"
+Picture = " /\\\n.  \\\n    \\"
+		
+		
